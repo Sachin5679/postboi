@@ -1,0 +1,10 @@
+# Ignore Go binary files
+*.exe
+*.dll
+*.so
+*.dylib
+main
+
+
+
+
