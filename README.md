@@ -1,4 +1,4 @@
-# Postboi: An HTTP Client CLI Tool
+# Postboi: A HTTP Client CLI Tool
 
 This project is a Command Line Interface (CLI) tool written in Go, designed to send HTTP requests with specified methods, headers, data, and authentication. It outputs the response status and body, making it useful for testing HTTP APIs from the command line.
 
